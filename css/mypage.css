@@ -1,0 +1,34 @@
+/* ==== 마이페이지 디자인 ==== */
+.m-control .m-title {
+    vertical-align: middle;
+    width: 200px;
+    
+}
+
+.m-control .form-control {
+    display: inline; /*input이 가로로 배치될 수 있도록 */
+}
+
+.m-control .add {
+    width: 200px;
+}
+
+.m-control .sel {
+    width: 80px;
+}
+
+.m-control .sel2 {
+    width: 100px;
+}
+
+.m-control button {
+    vertical-align: top;
+}
+
+.titlebtn {
+    text-align: center;
+}
+
+.tab-content {
+    margin-top: 50px;
+}
